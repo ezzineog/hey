@@ -1,3 +1,3 @@
 function me(arg) {
-	return "hey";
+	return "hey niggas";
 }
